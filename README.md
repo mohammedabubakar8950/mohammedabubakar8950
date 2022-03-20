@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MOHAMMED ABUBAKAR
+- 👋 Hi, I’m MOHD ABUBAKAR
 - 👀 I’m interested in gaining more knowledge in coding
 - 🌱 I’m currently learning MCA (Master of Computer Applications )
 - 💞️ I’m looking to collaborate with experienced once in coding
