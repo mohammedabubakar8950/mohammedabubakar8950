@@ -1,0 +1,37 @@
+<html>
+    <head>
+     <title> let us create a simple project </title>
+        <body>
+            <!--<link rel="stylesheet" type="text/css"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+            <link rel="stylesheet" href="simple_project_style.css" type="text/css">
+            <div>
+            <h1> My to-do list </h1>
+            <p><i>Double-click an item to mark it complete</i></p>
+            <br>
+            <input type="text" />
+            <input class="i1" type="submit" value="Add" />
+                <br> <br>
+                <ol>
+                    <li>My</li>
+                    <strike><li>to-do</li></strike>
+                    <li>list</li>
+                </ol>
+                <input class="i2" type="submit" value="Clear Completed">
+                <input class="i3" type="submit" value="Empty List">
+                <input class="i4" type="submit" value="Save List">
+            </div>
+        </body>
+    </head>
+    </html>
+    
+    
+    CSS used for the above html code !!!!    
+    *{margin:10px}
+    body {background-color:palegreen;border: 10px}
+    div {background-color: #fff;border-radius: 15px;padding: 20px;}
+    .i1 {background-color: lightseagreen;color:#fff;border-radius:50px;padding:6px }
+    .i2 {background-color: lightseagreen;color:#fff;border-radius: 15px;padding:6px }
+    .i3 {background-color: brown;color:#fff;border-radius: 15px;padding:6px }
+    .i4 {background-color: greenyellow;color:#fff;border-radius: 15px;padding:6px}
+
