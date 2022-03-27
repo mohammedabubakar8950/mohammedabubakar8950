@@ -1,0 +1,8 @@
+body {text-align:center; margin:10px;}
+.tbl1,.tbl2 {border:2px solid;border-radius: 20px; width:10px; height:10px}
+th,td {border:1px dotted;padding:10px;text-align: center;border-radius: 20px;}
+th {background-color:lightskyblue;}
+td {background-color:powderblue;}
+.img1 {border: 4px dashed;border-color:blue;border-radius:1000px}
+.hh {text-decoration:underline dashed blue;padding:20px;}
+.ta{width:50%;height:40%;}
