@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MOHD ABUBAKAR
-- 👀 I’m interested in gaining more knowledge in coding
-- 🌱 I’m currently learning MCA (Master of Computer Applications )
-- 💞️ I’m looking to collaborate with experienced once in coding
+- 👋 Hi, I’m MOHD ABU BAKAR
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently pursuing MCA (Master of Computer Applications)
+- 💞️ I’m currently working at Saras India Systems Pvt. Ltd.
 - 📫 How to reach me ...( mohammedabubaker8950@gmail.com ) is my email
 
 <!---
